@@ -41,7 +41,13 @@
 | [04-optimization.md](04-optimizaciya.md) | Кластеризация и оптимизация текстов по 8 срезам |
 | [05-commercial-and-competitors.md](05-kommercheskie-i-konkurenty.md) | Коммерческие факторы ТОП-10 + конкуренты |
 | [06-all-pages.md](06-vse-stranicy-sajta.md) | **Все 74 страницы сайта** с Title/H1/Description/статусом |
-| [pages.csv](pages.csv) | Таблица всех страниц (для Excel/Sheets) |
+| [07-keywords-positions.md](07-kluchevye-slova-pozicii.md) | **Все 85 ключевых слов** с позициями по 8 срезам |
+| [08-competitors.md](08-konkurenty.md) | Конкуренты по видимости (полный список) |
+| [09-clusters.md](09-klastery.md) | Кластеры ключевых слов (35 кластеров) |
+| [10-snippets.md](10-snippety.md) | Сниппеты сайта по каждому ключевому слову |
+| [11-overspam-pages.md](11-perespam-stranicy.md) | Переспамленные страницы (26 URL) |
+| [pages.csv](pages.csv) | Таблица всех страниц (Excel/Sheets) |
+| [keywords-positions.csv](keywords-positions.csv) | Матрица «ключ × позиция» (Excel/Sheets) |
 
 ---
 
